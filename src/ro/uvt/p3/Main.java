@@ -11,5 +11,7 @@ public class Main {
         Application app = new Application(id, od);
 
         app.run();
+        System.out.println("hello world!");
     }
+
 }

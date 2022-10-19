@@ -15,4 +15,17 @@ public class Application {
     public void run(){
 
     }
+    public void Fruit {
+        int weight;
+        int sugar_content;
+        int water_content;
+        char color;
+        enum Color
+        {
+            red,
+            yellow,
+            purple;
+        }
+
+    }
 }

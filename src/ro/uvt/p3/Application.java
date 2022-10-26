@@ -28,4 +28,7 @@ public class Application {
         }
 
     }
+    class Banana extends Fruit{
+        Banana.color="yellow";
+    }
 }
